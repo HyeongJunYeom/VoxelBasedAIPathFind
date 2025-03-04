@@ -1,0 +1,46 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxAnimModel.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxCube.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxInstance_Point.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxInstance_Rect.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxModel.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxNorTex.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Shader_VtxPosTex.cso
+  stdafx.cpp
+  BackGround.cpp
+  Body_Player.cpp
+  Camera_Free.cpp
+  Effect.cpp
+  ForkLift.cpp
+  Level_GamePlay.cpp
+  Level_Loading.cpp
+  Level_Logo.cpp
+  Loader.cpp
+  MainApp.cpp
+  Monster.cpp
+  Particle_Blue.cpp
+  Particle_Red.cpp
+  Player.cpp
+  Sky.cpp
+  Terrain.cpp
+  TestObject.cpp
+  Weapon.cpp
+  Client.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 849 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Client\Bin\Client.exe

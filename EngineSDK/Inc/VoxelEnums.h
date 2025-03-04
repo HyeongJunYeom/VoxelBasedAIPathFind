@@ -1,0 +1,17 @@
+#pragma once
+
+BEGIN(Engine)
+
+enum class VOXEL_STATE {
+	_DEFAULT, _PICKED, _IS_OPEN, _IS_CLOSE, _IS_BEST, _CHOOSE, _START, _GOAL, _BLOCKED, _IS_NEIGHBOR, _IS_RESERVE, _END
+};
+
+enum class VOXEL_ID {
+	_FLOOR, _WALL, _OBSTACLE, _END
+};
+
+enum class VOXEL_LAYER { 
+	_STATIC, _OBSTACLE_STATIC, _OBSTACLE_DYNAMIC, _END 
+};
+
+END

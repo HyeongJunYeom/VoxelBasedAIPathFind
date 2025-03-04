@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Engine.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_Cell.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_Deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_VtxCube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_VtxInstance_Cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_VtxInstance_Line.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\hyeongjun8411\Desktop\DefaultFramework\Engine\Bin\Shader_VtxPoint_Line.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

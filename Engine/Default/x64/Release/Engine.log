@@ -1,0 +1,427 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_Deferred.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_VtxCube.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(7,13-26): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(8,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(9,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(10,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(11,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(12,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(13,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(14,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(15,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(17,13-31): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(18,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(19,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(20,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(21,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(22,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(23,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(24,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(25,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(27,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(28,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(29,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(30,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(31,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(32,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(33,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_VtxInstance_Cube.cso
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(34,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(35,13-32): warning X3207: Initializer used on a global 'const' variable. This requires setting an external constant. If a literal is desired, use 'static const' instead.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl(313,5): warning X4000: use of potentially uninitialized variable (vColor)
+  
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_VtxInstance_Line.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Shader_VtxPoint_Line.cso
+  GraphEditor.cpp
+  ImCurveEdit.cpp
+  ImGradient.cpp
+  imgui.cpp
+  ImGuizmo.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  ImSequencer.cpp
+  Agent.cpp
+  Agent_Manager.cpp
+  Animation.cpp
+  Base.cpp
+  BlendObject.cpp
+  Boid.cpp
+  Bone.cpp
+  Bounding.cpp
+  Bounding_AABB.cpp
+  Bounding_OBB.cpp
+  Bounding_Sphere.cpp
+  Camera.cpp
+  Camera_Tool.cpp
+  Channel.cpp
+  Collider.cpp
+  Component.cpp
+  Component_Manager.cpp
+  CustomFont.cpp
+  DebugDraw.cpp
+  Dummy_Object.cpp
+  Extractor.cpp
+  Font_Manager.cpp
+  Formation.cpp
+  Formation_Manager.cpp
+  Frustum.cpp
+  GameInstance.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Gui_Object.cpp
+  ImGUI_Manager.cpp
+  Input_Device.cpp
+  KeyBoard.cpp
+  Layer.cpp
+  Level.cpp
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\private\Boid.cpp(172,17): warning C4244: '인수': 'Engine::_uint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Level_Manager.cpp
+  Light.cpp
+  Light_Manager.cpp
+  Mesh.cpp
+  Model.cpp
+  Model_Extractor.cpp
+  Mouse.cpp
+  Navigation.cpp
+  Object_Manager.cpp
+  Object_Tool.cpp
+  Obstacle.cpp
+  Obstacle_Cube.cpp
+  Obstacle_Cylinder.cpp
+  Obstacle_Manager.cpp
+  Obstacle_Mesh.cpp
+  Obstacle_Tool.cpp
+  PartObject.cpp
+  PathFinder_FlowField.cpp
+  PathFinder_Voxel.cpp
+  Path_Detour.cpp
+  Path_Manager.cpp
+  Path_Optimizer.cpp
+  Path_Rounder.cpp
+  Navi_Tool.cpp
+  Picking.cpp
+  PipeLine.cpp
+  QuadTree.cpp
+  Renderer.cpp
+  RenderTarget.cpp
+  Scene_Render_Tool.cpp
+  Shader.cpp
+  Target_Manager.cpp
+  Texture.cpp
+  Timer.cpp
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(68,46): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(71,47): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(73,47): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer_Manager.cpp
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(83,47): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(86,60): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Private\Object_Tool.cpp(88,60): warning C4267: '인수': 'size_t'에서 'const Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Transform.cpp
+  VIBuffer_Instance.cpp
+  VIBuffer.cpp
+  VIBuffer_Cell.cpp
+  VIBuffer_Cube.cpp
+  VIBuffer_Instance_Cube.cpp
+  VIBuffer_Instance_Line.cpp
+  VIBuffer_Instance_Point.cpp
+  VIBuffer_Instance_Rect.cpp
+  VIBuffer_Line.cpp
+  VIBuffer_Rect.cpp
+  VIBuffer_Terrain.cpp
+  VoxelDebugger.cpp
+  VoxelPicker.cpp
+  VoxelSector.cpp
+  Voxel_Convertor.cpp
+  Voxel_Link.cpp
+  Voxel_Manager.cpp
+  Voxel_SectorLayer.cpp
+  VoxelRenderCube.cpp
+  Voxel_Parser.cpp
+  Voxel_Scorer.cpp
+  Voxel_Tool.cpp
+  Engine_Struct.cpp
+  Boid_Manager.cpp
+     ../Bin/Engine.lib 라이브러리 및 ../Bin/Engine.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 10898 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+Effects11.lib(EffectAPI.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectAPI.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectNonRuntime.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectNonRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectLoad.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectLoad.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(d3dxGlobal.obj) : warning LNK4099: '' PDB를 'Effects11.lib(d3dxGlobal.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectReflection.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectReflection.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectRuntime.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(SpriteBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(SpriteFont.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(PrimitiveBatch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(PrimitiveBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(ScreenGrab.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(ScreenGrab.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(WICTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(DDSTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(DDSTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(CommonStates.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(VertexTypes.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(pch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(pch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(BinaryReader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Engine.vcxproj -> C:\Users\HJYeom\Desktop\PearlAbyss\DefaultFramework\Engine\Bin\Engine.dll
+  지정된 경로가 잘못되었습니다.
+  .\Engine\Public\Agent.h
+  .\Engine\Public\Agent_Manager.h
+  .\Engine\Public\Animation.h
+  .\Engine\Public\Base.h
+  .\Engine\Public\BlendObject.h
+  .\Engine\Public\Boid.h
+  .\Engine\Public\Boid_Manager.h
+  .\Engine\Public\Bone.h
+  .\Engine\Public\Bounding.h
+  .\Engine\Public\Bounding_AABB.h
+  .\Engine\Public\Bounding_OBB.h
+  .\Engine\Public\Bounding_Sphere.h
+  .\Engine\Public\Camera.h
+  .\Engine\Public\Camera_Tool.h
+  .\Engine\Public\Channel.h
+  .\Engine\Public\Collider.h
+  .\Engine\Public\Component.h
+  .\Engine\Public\Component_Manager.h
+  .\Engine\Public\CustomFont.h
+  .\Engine\Public\DebugDraw.h
+  .\Engine\Public\Dummy_Object.h
+  .\Engine\Public\Engine_Defines.h
+  .\Engine\Public\Engine_Enums.h
+  .\Engine\Public\Engine_Function.h
+  .\Engine\Public\Engine_Macro.h
+  .\Engine\Public\Engine_Struct.cpp
+  .\Engine\Public\Engine_Struct.h
+  .\Engine\Public\Engine_Typedef.h
+  .\Engine\Public\Extractor.h
+  .\Engine\Public\Font_Manager.h
+  .\Engine\Public\Formation.h
+  .\Engine\Public\Formation_Defines.h
+  .\Engine\Public\Formation_Enums.h
+  .\Engine\Public\Formation_Includes.h
+  .\Engine\Public\Formation_Manager.h
+  .\Engine\Public\Frustum.h
+  .\Engine\Public\GameInstance.h
+  .\Engine\Public\GameObject.h
+  .\Engine\Public\Graphic_Device.h
+  .\Engine\Public\Gui_Object.h
+  .\Engine\Public\ImGui_Defines.h
+  .\Engine\Public\ImGui_Enums.h
+  .\Engine\Public\ImGui_Includes.h
+  .\Engine\Public\ImGUI_Manager.h
+  .\Engine\Public\Input_Device.h
+  .\Engine\Public\KeyBoard.h
+  .\Engine\Public\Layer.h
+  .\Engine\Public\Level.h
+  .\Engine\Public\Level_Manager.h
+  .\Engine\Public\Light.h
+  .\Engine\Public\Light_Manager.h
+  .\Engine\Public\Mesh.h
+  .\Engine\Public\Model.h
+  .\Engine\Public\Model_Extractor.h
+  .\Engine\Public\Mouse.h
+  .\Engine\Public\Navigation.h
+  .\Engine\Public\Navi_Tool.h
+  .\Engine\Public\Object_Manager.h
+  .\Engine\Public\Object_Tool.h
+  .\Engine\Public\Obstacle.h
+  .\Engine\Public\Obstacle_Cube.h
+  .\Engine\Public\Obstacle_Cylinder.h
+  .\Engine\Public\Obstacle_Manager.h
+  .\Engine\Public\Obstacle_Mesh.h
+  .\Engine\Public\Obstacle_Tool.h
+  .\Engine\Public\PartObject.h
+  .\Engine\Public\PathDefines.h
+  .\Engine\Public\PathEnums.h
+  .\Engine\Public\PathFinder_FlowField.h
+  .\Engine\Public\PathFinder_Voxel.h
+  .\Engine\Public\PathIncludes.h
+  .\Engine\Public\PathStructs.h
+  .\Engine\Public\Path_Detour.h
+  .\Engine\Public\Path_Manager.h
+  .\Engine\Public\Path_Optimizer.h
+  .\Engine\Public\Path_Rounder.h
+  .\Engine\Public\Picking.h
+  .\Engine\Public\PipeLine.h
+  .\Engine\Public\QuadTree.h
+  .\Engine\Public\Renderer.h
+  .\Engine\Public\RenderTarget.h
+  .\Engine\Public\Scene_Render_Tool.h
+  .\Engine\Public\Shader.h
+  .\Engine\Public\Target_Manager.h
+  .\Engine\Public\Texture.h
+  .\Engine\Public\Timer.h
+  .\Engine\Public\Timer_Manager.h
+  .\Engine\Public\Transform.h
+  .\Engine\Public\VIBuffer.h
+  .\Engine\Public\VIBuffer_Cell.h
+  .\Engine\Public\VIBuffer_Cube.h
+  .\Engine\Public\VIBuffer_Instance.h
+  .\Engine\Public\VIBuffer_Instance_Cube.h
+  .\Engine\Public\VIBuffer_Instance_Line.h
+  .\Engine\Public\VIBuffer_Instance_Point.h
+  .\Engine\Public\VIBuffer_Instance_Rect.h
+  .\Engine\Public\VIBuffer_Line.h
+  .\Engine\Public\VIBuffer_Rect.h
+  .\Engine\Public\VIBuffer_Terrain.h
+  .\Engine\Public\Voxel.h
+  .\Engine\Public\VoxelDebugger.h
+  .\Engine\Public\VoxelDefines.h
+  .\Engine\Public\VoxelEnums.h
+  .\Engine\Public\VoxelIncludes.h
+  .\Engine\Public\VoxelPicker.h
+  .\Engine\Public\VoxelRenderCube.h
+  .\Engine\Public\VoxelSector.h
+  .\Engine\Public\VoxelStructs.h
+  .\Engine\Public\Voxel_Convertor.h
+  .\Engine\Public\Voxel_Link.h
+  .\Engine\Public\Voxel_Manager.h
+  .\Engine\Public\Voxel_Parser.h
+  .\Engine\Public\Voxel_Scorer.h
+  .\Engine\Public\Voxel_SectorLayer.h
+  .\Engine\Public\Voxel_Tool.h
+  .\Engine\Public\assimp\.editorconfig
+  .\Engine\Public\assimp\aabb.h
+  .\Engine\Public\assimp\ai_assert.h
+  .\Engine\Public\assimp\anim.h
+  .\Engine\Public\assimp\BaseImporter.h
+  .\Engine\Public\assimp\Bitmap.h
+  .\Engine\Public\assimp\BlobIOSystem.h
+  .\Engine\Public\assimp\ByteSwapper.h
+  .\Engine\Public\assimp\camera.h
+  .\Engine\Public\assimp\cexport.h
+  .\Engine\Public\assimp\cfileio.h
+  .\Engine\Public\assimp\cimport.h
+  .\Engine\Public\assimp\color4.h
+  .\Engine\Public\assimp\color4.inl
+  .\Engine\Public\assimp\config.h
+  .\Engine\Public\assimp\config.h.in
+  .\Engine\Public\assimp\CreateAnimMesh.h
+  .\Engine\Public\assimp\DefaultIOStream.h
+  .\Engine\Public\assimp\DefaultIOSystem.h
+  .\Engine\Public\assimp\DefaultLogger.hpp
+  .\Engine\Public\assimp\Defines.h
+  .\Engine\Public\assimp\defs.h
+  .\Engine\Public\assimp\Exceptional.h
+  .\Engine\Public\assimp\Exporter.hpp
+  .\Engine\Public\assimp\fast_atof.h
+  .\Engine\Public\assimp\GenericProperty.h
+  .\Engine\Public\assimp\Hash.h
+  .\Engine\Public\assimp\Importer.hpp
+  .\Engine\Public\assimp\importerdesc.h
+  .\Engine\Public\assimp\IOStream.hpp
+  .\Engine\Public\assimp\IOStreamBuffer.h
+  .\Engine\Public\assimp\IOSystem.hpp
+  .\Engine\Public\assimp\irrXMLWrapper.h
+  .\Engine\Public\assimp\light.h
+  .\Engine\Public\assimp\LineSplitter.h
+  .\Engine\Public\assimp\LogAux.h
+  .\Engine\Public\assimp\Logger.hpp
+  .\Engine\Public\assimp\LogStream.hpp
+  .\Engine\Public\assimp\Macros.h
+  .\Engine\Public\assimp\material.h
+  .\Engine\Public\assimp\material.inl
+  .\Engine\Public\assimp\MathFunctions.h
+  .\Engine\Public\assimp\matrix3x3.h
+  .\Engine\Public\assimp\matrix3x3.inl
+  .\Engine\Public\assimp\matrix4x4.h
+  .\Engine\Public\assimp\matrix4x4.inl
+  .\Engine\Public\assimp\MemoryIOWrapper.h
+  .\Engine\Public\assimp\mesh.h
+  .\Engine\Public\assimp\metadata.h
+  .\Engine\Public\assimp\NullLogger.hpp
+  .\Engine\Public\assimp\ParsingUtils.h
+  .\Engine\Public\assimp\pbrmaterial.h
+  .\Engine\Public\assimp\postprocess.h
+  .\Engine\Public\assimp\Profiler.h
+  .\Engine\Public\assimp\ProgressHandler.hpp
+  .\Engine\Public\assimp\qnan.h
+  .\Engine\Public\assimp\quaternion.h
+  .\Engine\Public\assimp\quaternion.inl
+  .\Engine\Public\assimp\RemoveComments.h
+  .\Engine\Public\assimp\scene.h
+  .\Engine\Public\assimp\SceneCombiner.h
+  .\Engine\Public\assimp\SGSpatialSort.h
+  .\Engine\Public\assimp\SkeletonMeshBuilder.h
+  .\Engine\Public\assimp\SmoothingGroups.h
+  .\Engine\Public\assimp\SmoothingGroups.inl
+  .\Engine\Public\assimp\SpatialSort.h
+  .\Engine\Public\assimp\StandardShapes.h
+  .\Engine\Public\assimp\StreamReader.h
+  .\Engine\Public\assimp\StreamWriter.h
+  .\Engine\Public\assimp\StringComparison.h
+  .\Engine\Public\assimp\StringUtils.h
+  .\Engine\Public\assimp\Subdivision.h
+  .\Engine\Public\assimp\texture.h
+  .\Engine\Public\assimp\TinyFormatter.h
+  .\Engine\Public\assimp\types.h
+  .\Engine\Public\assimp\vector2.h
+  .\Engine\Public\assimp\vector2.inl
+  .\Engine\Public\assimp\vector3.h
+  .\Engine\Public\assimp\vector3.inl
+  .\Engine\Public\assimp\version.h
+  .\Engine\Public\assimp\Vertex.h
+  .\Engine\Public\assimp\XMLTools.h
+  .\Engine\Public\assimp\ZipArchiveIOSystem.h
+  .\Engine\Public\assimp\Compiler\poppack1.h
+  .\Engine\Public\assimp\Compiler\pstdint.h
+  .\Engine\Public\assimp\Compiler\pushpack1.h
+  .\Engine\Public\assimp\port\AndroidJNI\AndroidJNIIOSystem.h
+  .\Engine\Public\DirectXTK\Audio.h
+  .\Engine\Public\DirectXTK\CommonStates.h
+  .\Engine\Public\DirectXTK\DDSTextureLoader.h
+  .\Engine\Public\DirectXTK\DirectXHelpers.h
+  .\Engine\Public\DirectXTK\Effects.h
+  .\Engine\Public\DirectXTK\GamePad.h
+  .\Engine\Public\DirectXTK\GeometricPrimitive.h
+  .\Engine\Public\DirectXTK\GraphicsMemory.h
+  .\Engine\Public\DirectXTK\Keyboard.h
+  .\Engine\Public\DirectXTK\Model.h
+  .\Engine\Public\DirectXTK\Mouse.h
+  .\Engine\Public\DirectXTK\PostProcess.h
+  .\Engine\Public\DirectXTK\PrimitiveBatch.h
+  .\Engine\Public\DirectXTK\ScreenGrab.h
+  .\Engine\Public\DirectXTK\SimpleMath.h
+  .\Engine\Public\DirectXTK\SimpleMath.inl
+  .\Engine\Public\DirectXTK\SpriteBatch.h
+  .\Engine\Public\DirectXTK\SpriteFont.h
+  .\Engine\Public\DirectXTK\VertexTypes.h
+  .\Engine\Public\DirectXTK\WICTextureLoader.h
+  .\Engine\Public\DirectXTK\XboxDDSTextureLoader.h
+  .\Engine\Public\Effects11\d3dx11effect.h
+  .\Engine\Public\Effects11\d3dxGlobal.h
+  225개 파일이 복사되었습니다.
+  .\Engine\Bin\Engine.lib
+  1개 파일이 복사되었습니다.
+  .\Engine\ThirdPartyLib\assimp-vc140-mt.lib
+  .\Engine\ThirdPartyLib\assimp-vc140-mtd.lib
+  .\Engine\ThirdPartyLib\DirectXTK.lib
+  .\Engine\ThirdPartyLib\DirectXTKd.lib
+  .\Engine\ThirdPartyLib\Effects11.lib
+  .\Engine\ThirdPartyLib\Effects11d.lib
+  6개 파일이 복사되었습니다.
+  .\Engine\Bin\Engine.dll
+  1개 파일이 복사되었습니다.
+  .\Engine\Bin\ShaderFiles\Engine_Shader_Defines.hlsli
+  .\Engine\Bin\ShaderFiles\Shader_Cell.hlsl
+  .\Engine\Bin\ShaderFiles\Shader_Deferred.hlsl
+  .\Engine\Bin\ShaderFiles\Shader_VtxCube.hlsl
+  .\Engine\Bin\ShaderFiles\Shader_VtxInstance_Cube.hlsl
+  .\Engine\Bin\ShaderFiles\Shader_VtxInstance_Line.hlsl
+  .\Engine\Bin\ShaderFiles\Shader_VtxPoint_Line.hlsl
+  7개 파일이 복사되었습니다.

@@ -1,0 +1,13 @@
+#pragma once
+
+BEGIN(Engine)
+
+enum class COMPONENT_TYPE {
+	_TRANSFORM, _NAVIGATION, _OBSTACLE, _MODEL_STATIC, _MODEL_ANIM, _END
+};
+
+enum class OBSTACLE_TYPE {
+	_MESH, _CUBE, _CYLINDER, _END
+};
+
+END
